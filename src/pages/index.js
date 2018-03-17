@@ -73,7 +73,7 @@ class MainPage extends React.Component {
                   {this.state.activeScreen == "middle" ? 'узнать подробнее про пошниц' : 'закрыть'}
                 </a>
               </div>
-              <a href="#" className="button button--main button--left">Стать пошницей</a>
+              <a href="https://goo.gl/forms/85QhyTeiOfAz7svm2" target="_blank" className="button button--main button--left">Стать пошницей</a>
             </div>  
             <div className="half-screen half-screen--ritgh half-screen--pink">
               <div className="header">
