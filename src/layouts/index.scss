@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Rubik');
+// RESET
+html {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin: 0;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: HeroNew, sans-serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+article img {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    min-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+
+// FONTS
+
+/* connecting local fonts */
