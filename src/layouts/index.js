@@ -5,7 +5,7 @@ import { rhythm } from '../utils/typography'
 
 import './index.scss'
 
-const TemplateWrapper = ({children}) => {
+const TemplateWrapper = ({ children }) => {
   return (
     <div className="container">
       <div>{children()}</div>
